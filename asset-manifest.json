@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tech-card/static/css/main.9fbaad58.css",
+    "main.js": "/tech-card/static/js/main.75ef2b2d.js",
+    "static/js/453.4cd445ca.chunk.js": "/tech-card/static/js/453.4cd445ca.chunk.js",
+    "index.html": "/tech-card/index.html",
+    "main.9fbaad58.css.map": "/tech-card/static/css/main.9fbaad58.css.map",
+    "main.75ef2b2d.js.map": "/tech-card/static/js/main.75ef2b2d.js.map",
+    "453.4cd445ca.chunk.js.map": "/tech-card/static/js/453.4cd445ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fbaad58.css",
+    "static/js/main.75ef2b2d.js"
+  ]
+}
